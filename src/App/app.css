@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.app-content-container {
+    max-width: 736px;
+    margin: 16px auto;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: white;
+}
